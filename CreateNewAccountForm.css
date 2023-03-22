@@ -1,0 +1,31 @@
+h1
+{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+body
+{
+    background-image: url(images/expense_tracker_menu_notepad.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.row
+{
+    background-color: beige;
+    border-radius: 30px;
+    position: relative;
+    width:20cm;
+    margin: auto;
+}
+.btnsignup
+{
+    border:none;
+    outline: none;
+    height: 40px;
+    width:100%;
+    background-color:black;
+    color: white;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
